@@ -1,6 +1,7 @@
 # GE-Chatroomclient
 
 https://github.com/user-attachments/assets/326d5357-e9a9-4798-9644-e4fdbf7fd9ad
+
 💬 Chat Room — Client-Server Application
 
 <p align="center">
@@ -153,11 +154,7 @@ University of Warwick — Games Engineering
 
 ---
 
-## 📄 License
 
-This project was submitted as coursework at the University of Warwick. Use and distribution may be subject to academic and institutional policies.
-
----
 
 <p align="center">
   <sub>Built with C++, WinSock, and ImGui</sub>
